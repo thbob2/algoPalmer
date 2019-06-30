@@ -30,5 +30,5 @@ def palmer(M,n,m):
 
 		
 if __name__ == '__main__':
-	M = [1,2,3]
+	
 	
